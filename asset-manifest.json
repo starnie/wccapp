@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wccapp/static/css/main.5f31887d.chunk.css",
+    "main.js": "/wccapp/static/js/main.e31b5d34.chunk.js",
+    "main.js.map": "/wccapp/static/js/main.e31b5d34.chunk.js.map",
+    "runtime-main.js": "/wccapp/static/js/runtime-main.ad652bda.js",
+    "runtime-main.js.map": "/wccapp/static/js/runtime-main.ad652bda.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/wccapp/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.786920e9.chunk.js": "/wccapp/static/js/2.786920e9.chunk.js",
+    "static/js/2.786920e9.chunk.js.map": "/wccapp/static/js/2.786920e9.chunk.js.map",
+    "index.html": "/wccapp/index.html",
+    "precache-manifest.7c3f8c8c53656515512c419ef70b26b3.js": "/wccapp/precache-manifest.7c3f8c8c53656515512c419ef70b26b3.js",
+    "service-worker.js": "/wccapp/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/wccapp/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5f31887d.chunk.css.map": "/wccapp/static/css/main.5f31887d.chunk.css.map",
+    "static/js/2.786920e9.chunk.js.LICENSE.txt": "/wccapp/static/js/2.786920e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad652bda.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.786920e9.chunk.js",
+    "static/css/main.5f31887d.chunk.css",
+    "static/js/main.e31b5d34.chunk.js"
+  ]
+}
